@@ -181,7 +181,7 @@ const table = [
     group: "D",
     title: "法国(France) VS 丹麦(Denmark) ",
     forecast: "平局(Draw)",
-    result: 0,
+    result: 2,
   },
   {
     no: 24,
