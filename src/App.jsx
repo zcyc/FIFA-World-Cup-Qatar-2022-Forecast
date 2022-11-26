@@ -24,11 +24,11 @@ function App() {
             ></path>
           </svg>
           <div>
-            <h3 className="font-bold">仅供娱乐，切莫当真。</h3>
+            <h3 className="font-bold">仅供娱乐，请勿当真。</h3>
           </div>
         </div>
         <div className="flex-none">
-          <button className="btn btn-sm">准确率约 66%</button>
+          <button className="btn btn-sm">正确率约 60%</button>
         </div>
       </div>
       <div className="overflow-x-auto">
