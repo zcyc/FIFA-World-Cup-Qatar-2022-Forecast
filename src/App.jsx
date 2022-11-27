@@ -1,6 +1,9 @@
 import "./App.css";
 import table from "./forecast";
 function App() {
+  const right = table.filter((race) => race.result === 1).length;
+  const ending = table.filter((race) => race.result !== 0).length;
+  const rank = ((right / ending) * 100).toFixed(2);
   return (
     <div className="App">
       <div className="navbar bg-base-100">
@@ -24,8 +27,11 @@ function App() {
             ></path>
           </svg>
           <div>
-            <h3 className="font-bold">仅供娱乐，请勿当真。</h3>
+            <h3 className="font-bold">仅供娱乐，请勿当真!</h3>
           </div>
+        </div>
+        <div className="flex-none">
+          <button className="btn btn-sm">正确率约 {rank}%</button>
         </div>
       </div>
       <div className="overflow-x-auto">
