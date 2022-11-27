@@ -189,7 +189,7 @@ const table = [
     group: "C",
     title: "阿根廷(Argentina) vs. 墨西哥(Mexico)",
     forecast: "阿根廷(Argentina)",
-    result: 0,
+    result: 1,
   },
   {
     no: 25,
