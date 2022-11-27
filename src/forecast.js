@@ -197,7 +197,7 @@ const table = [
     group: "E",
     title: "日本(Japan) VS 哥斯达黎加(Costa Rica)",
     forecast: "平局(Draw)",
-    result: 0,
+    result: 2,
   },
   {
     no: 26,
