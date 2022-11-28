@@ -205,7 +205,7 @@ const table = [
     group: "F",
     title: "比利时(Belgium) vs. 摩洛哥(Morocco)",
     forecast: "比利时(Belgium)",
-    result: 0,
+    result: 2,
   },
   {
     no: 27,
@@ -213,7 +213,7 @@ const table = [
     group: "F",
     title: "克罗地亚(Croatia) vs. 加拿大(Canada)",
     forecast: "克罗地亚(Croatia)",
-    result: 0,
+    result: 1,
   },
   {
     no: 28,
@@ -221,7 +221,7 @@ const table = [
     group: "E",
     title: "西班牙(Spain) VS 德国(Germany)",
     forecast: "平局(Draw)",
-    result: 0,
+    result: 1,
   },
   {
     no: 29,
