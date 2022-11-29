@@ -229,7 +229,7 @@ const table = [
     group: "B",
     title: "韩国(South Korea) vs. 加纳(Ghana)",
     forecast: "韩国(South Korea)",
-    result: 0,
+    result: 2,
   },
   {
     no: 30,
@@ -237,7 +237,7 @@ const table = [
     group: "G",
     title: "喀麦隆(Cameroon) vs. 塞尔维亚(Serbia)",
     forecast: "塞尔维亚(Serbia)",
-    result: 0,
+    result: 2,
   },
   {
     no: 31,
@@ -245,7 +245,7 @@ const table = [
     group: "G",
     title: "巴西(Brazil) VS 瑞士(Switzerland)",
     forecast: "平局(Draw)",
-    result: 0,
+    result: 2,
   },
   {
     no: 32,
@@ -253,7 +253,7 @@ const table = [
     group: "H",
     title: "葡萄牙(Portugal) VS 乌拉圭(Uruguay)",
     forecast: "平局(Draw)",
-    result: 0,
+    result: 2,
   },
   {
     no: 33,
