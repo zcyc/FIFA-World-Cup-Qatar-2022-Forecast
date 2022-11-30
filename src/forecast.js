@@ -261,7 +261,7 @@ const table = [
     group: "A",
     title: "荷兰(Netherlands) vs. 卡塔尔(Qatar)",
     forecast: "荷兰(Netherlands)",
-    result: 0,
+    result: 1,
   },
   {
     no: 34,
@@ -269,7 +269,7 @@ const table = [
     group: "A",
     title: "厄瓜多尔(Ecuador) vs. 塞内加尔(Senegal)",
     forecast: "厄瓜多尔(Ecuador)",
-    result: 0,
+    result: 2,
   },
   {
     no: 35,
@@ -277,7 +277,7 @@ const table = [
     group: "B",
     title: "威尔士(Wales) vs. 英格兰(England)",
     forecast: "英格兰(England)",
-    result: 0,
+    result: 1,
   },
   {
     no: 36,
@@ -285,7 +285,7 @@ const table = [
     group: "B",
     title: "伊朗(Iran) vs. 美国(United States)",
     forecast: "美国(United States)",
-    result: 0,
+    result: 1,
   },
   {
     no: 37,
