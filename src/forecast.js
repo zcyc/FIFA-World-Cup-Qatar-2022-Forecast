@@ -293,7 +293,7 @@ const table = [
     group: "D",
     title: "突尼斯(Tunisia) vs. 法国(France)",
     forecast: "法国(France)",
-    result: 0,
+    result: 2,
   },
   {
     no: 38,
@@ -301,7 +301,7 @@ const table = [
     group: "D",
     title: "澳大利亚(Australia) vs. 丹麦(Denmark)",
     forecast: "丹麦(Denmark)",
-    result: 0,
+    result: 2,
   },
   {
     no: 39,
@@ -309,7 +309,7 @@ const table = [
     group: "C",
     title: "沙特阿拉伯(Saudi Arabia) vs. 墨西哥(Mexico)",
     forecast: "墨西哥(Mexico)",
-    result: 0,
+    result: 1,
   },
   {
     no: 40,
@@ -317,7 +317,7 @@ const table = [
     group: "C",
     title: "波兰(Poland) vs. 阿根廷(Argentina)",
     forecast: "阿根廷(Argentina)",
-    result: 0,
+    result: 1,
   },
   {
     no: 41,
