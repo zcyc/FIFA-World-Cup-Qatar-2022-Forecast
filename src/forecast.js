@@ -325,15 +325,15 @@ const table = [
     group: "F",
     title: "克罗地亚(Croatia) vs. 比利时(Belgium)",
     forecast: "比利时(Belgium)",
-    result: 0,
+    result: 2,
   },
   {
     no: 42,
-    time: "11月21日21点",
+    time: "12月1日23点",
     group: "F",
     title: "加拿大(Canada) VS 摩洛哥(Morocco)",
     forecast: "平局(Draw)",
-    result: 0,
+    result: 2,
   },
   {
     no: 43,
@@ -341,7 +341,7 @@ const table = [
     group: "E",
     title: "日本(Japan) vs. 西班牙(Spain)",
     forecast: "西班牙(Spain)",
-    result: 0,
+    result: 2,
   },
   {
     no: 44,
@@ -349,7 +349,7 @@ const table = [
     group: "E",
     title: "哥斯达黎加(Costa Rica) vs. 德国(Germany)",
     forecast: "德国(Germany)",
-    result: 0,
+    result: 1,
   },
   {
     no: 45,
@@ -357,7 +357,7 @@ const table = [
     group: "H",
     title: "韩国(South Korea) vs. 葡萄牙(Portugal)",
     forecast: "葡萄牙(Portugal)",
-    result: 0,
+    result: 2,
   },
   {
     no: 46,
@@ -365,7 +365,7 @@ const table = [
     group: "H",
     title: "加纳(Ghana) vs. 乌拉圭(Uruguay)",
     forecast: "乌拉圭(Uruguay)",
-    result: 0,
+    result: 1,
   },
   {
     no: 47,
@@ -373,7 +373,7 @@ const table = [
     group: "G",
     title: "塞尔维亚(Serbia) vs. 瑞士(Switzerland)",
     forecast: "瑞士(Switzerland)",
-    result: 0,
+    result: 1,
   },
   {
     no: 48,
@@ -381,7 +381,7 @@ const table = [
     group: "G",
     title: "喀麦隆(Cameroon) vs. 巴西(Brazil)",
     forecast: "巴西(Brazil)",
-    result: 0,
+    result: 2,
   },
 ];
 export default table;
